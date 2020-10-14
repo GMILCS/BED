@@ -1,0 +1,106 @@
+{
+    "label": "Books for Dog Lovers",
+    "description": "All About Dogs",
+    "list": 
+  [
+{
+"label":"The Wolf in the Parlor",
+"isbns": [
+"9781400193400",
+"9780805090772"
+]
+},
+{
+"label":"The Secret Language of Dogs",
+"isbns": [
+"9781607749523"
+]
+},
+{
+"label":"The Modern Dog",
+"isbns": [
+"9781416593683"
+]
+},
+{
+"label":"Dog Heroes",
+"isbns": [
+"9781585746965"
+]
+},
+{
+"label":"The Genius of Dogs",
+"isbns": [
+"9781101604410",
+"9780525953197"
+]
+},
+{
+"label":"Through a Dog's Eyes",
+"isbns": [
+"9781400068883"
+]
+},
+{
+"label":"Pit Bull",
+"isbns": [
+"9780307961761"
+]
+},
+{
+"label":"Dog is Love",
+"isbns": [
+"9780358172086",
+"9781328543967"
+]
+},
+{
+"label":"Dog Sense",
+"isbns": [
+"9780465019441"
+]
+},
+{
+"label":"What It's Like to Be a Dog",
+"isbns": [
+"9780465096244"
+]
+},
+{
+"label":"The Dogist",
+"isbns": [
+"9781579656713"
+]
+},
+{
+"label":"The Hidden Life of Dogs",
+"isbns": [
+"9780395669587"
+]
+},
+{
+"label":"Once a Wolf",
+"isbns": [
+"9781631493799"
+]
+},
+{
+"label":"Secret Service Dogs",
+"isbns": [
+"9781101984734"
+]
+},
+{
+"label":"What's a Dog For?",
+"isbns": [
+"9780395669587"
+]
+},
+{
+"label":"How the Dog Became the Dog",
+"isbns": [
+"9781590207000"
+]
+}
+]
+}

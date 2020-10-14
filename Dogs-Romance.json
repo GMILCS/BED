@@ -1,0 +1,86 @@
+{
+    "label": "Books for Dog Lovers",
+    "description": "Dog Love Stories",
+    "list": 
+  [
+{
+"label":"Cold Nose, Warm Heart",
+"isbns": [
+"9781492698586"
+"9781492698593"
+]
+},
+{
+"label":"Anyone But You",
+"isbns": [
+"9780373771462",
+"9781552547243"
+]
+},
+{
+"label":"The Happy Ever After Playlist",
+"isbns": [
+"9781538715659",
+"9781538715635",
+"9781538715642"
+]
+},
+{
+"label":"Unleashing Mr. Darcy",
+"isbns": [
+"9781460323809",
+"9780373778355"
+]
+},
+{
+"label":"Any Day Now",
+"isbns": [
+"9780778319917",
+"9781460396612"
+]
+},
+{
+"label":"About a Dog",
+"isbns": [
+"9780399584718"
+]
+},
+{
+"label":"A New Leash on Love",
+"isbns": [
+"9781492650850"
+]
+},
+{
+"label":"Stay With Me",
+"isbns": [
+"9780803734487"
+]
+},
+{
+"label":"Must Love Dogs",
+"isbns": [
+"9780670031061"
+]
+},
+{
+"label":"Animal Magnetism",
+"isbns": [
+"9781452625270",
+"9781101468661"
+]
+},
+{
+"label":"The Best Man",
+"isbns": [
+"9781460306451"
+]
+},
+{
+"label":"Second Chance Girl",
+"isbns": [
+"9781538472392"
+]
+}
+]
+}

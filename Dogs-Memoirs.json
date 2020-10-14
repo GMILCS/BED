@@ -1,0 +1,194 @@
+{
+    "label": "Books for Dog Lovers",
+    "description": "Dog Memoirs",
+    "list": 
+  [
+{
+"label":"Giant George",
+"isbns": [
+"9781455511440",
+"9781410448361"
+]
+},
+{
+"label":"No Better Friend",
+"isbns": [
+"9780316337069"
+]
+},
+{
+"label":"Good Boy",
+"isbns": [
+"9781250261878",
+"9781250261861"
+]
+},
+{
+"label":"Wallace",
+"isbns": [
+"9781592407316",
+"9781470818951"
+]
+},
+{
+"label":"All Dogs Go to Kevin",
+"isbns": [
+"9781455554935"
+]
+},
+{
+"label":"A Big Little Life",
+"isbns": [
+"9781401323523",
+"9781401394554"
+]
+},
+{
+"label":"The Dog Lived (And So Will I)",
+"isbns": [
+"9781402271748",
+"9781402271731",
+"9781402271724"
+]
+},
+{
+"label":"A Dog Year",
+"isbns": [
+"9780375502972"
+]
+},
+{
+"label":"Elle & Coach",
+"isbns": [
+"9780316258760"
+]
+},
+{
+"label":"Following Atticus",
+"isbns": [
+"9780307966841",
+"9780062101303",
+"9780061997105",
+"9780307966834"
+]
+},
+{
+"label":"James Herriot's Favorite Dog Stories",
+"isbns": [
+"9780312146313"
+]
+},
+{
+"label":"Merle's Door",
+"isbns": [
+"9780151012701"
+]
+},
+{
+"label":"Off the Leash",
+"isbns": [
+"9781250014221"
+]
+},
+{
+"label":"Pure Joy",
+"isbns": [
+"9780345543752",
+"9780345543769",
+"9781482953923"
+]
+},
+{
+"label":"Rin Tin Tin",
+"isbns": [
+"9781410443441",
+"9781439190135"
+]
+},
+{
+"label":"Sergeant Rex",
+"isbns": [
+"9781451635966"
+]
+},
+{
+"label":"Will's Red Coat",
+"isbns": [
+"9780062444981",
+"9780062445001",
+"9780062564443"
+]
+},
+{
+"label":"You Had Me at Woof",
+"isbns": [
+"9781101440735",
+"9781594487767"
+]
+},
+{
+"label":"Amazing Gracie",
+"isbns": [
+"9780761153627",
+"9780761119371"
+]
+},
+{
+"label":"A Dog Walks into a Nursing Home",
+"isbns": [
+"9781594487200"
+]
+},
+{
+"label":"The Dog Who Could Fly",
+"isbns": [
+"9781476739144"
+]
+},
+{
+"label":"Dogtripping",
+"isbns": [
+"9781250014696"
+]
+},
+{
+"label":"A Good Dog",
+"isbns": [
+"9781400061891"
+]
+},
+{
+"label":"Marcus of Umbria",
+"isbns": [
+"9781605299600"
+]
+},
+{
+"label":"No Ordinary Dog",
+"isbns": [
+"9781250176950",
+"9781250240019"
+]
+},
+{
+"label":"Rescue Road",
+"isbns": [
+"9781492614074"
+]
+},
+{
+"label":"Scent of the Missing",
+"isbns": [
+"9781441729644",
+"9780547152448"
+]
+},
+{
+"label":"Tuesday's Promise",
+"isbns": [
+"9780316314442",
+"9780316314411"
+]
+}
+]
+}

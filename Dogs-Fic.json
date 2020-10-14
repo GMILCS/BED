@@ -1,0 +1,104 @@
+{
+    "label": "Books for Dog Lovers",
+    "description": "Dog Fiction",
+    "list": 
+  [
+{
+"label":"The Mountaintop School for Dogs and Other Second Chances",
+"isbns": [
+"9780544236158",
+"9781629238265"
+]
+},
+{
+"label":"The Art of Racing in the Rain",
+"isbns": [
+"9780061565403",
+"9780061630682",
+"9780061648380",
+"9780061537936"
+]
+},
+{
+"label":"Jonathan Unleashed",
+"isbns": [
+"9781408870808",
+"9781101980903"
+]
+},
+{
+"label":"The Story of Edgar Sawtelle",
+"isbns": [
+"9780061792595",
+"9780061374227",
+"9780061691621",
+"9780061662935"
+]
+},
+{
+"label":"The Knife of Never Letting Go",
+"isbns": [
+"9780763676186",
+"9780763652166"
+]
+},
+{
+"label":"The Friend",
+"isbns": [
+"9780735219441",
+"9780735219465"
+]
+},
+{
+"label":"Good Dogs Don't Make It To the South Pole",
+"isbns": [
+"9780062981653"
+]
+},
+{
+"label":"The Call of the Wild",
+"isbns": [
+"9780788734564",
+"9781467610681",
+"9781620114483",
+"9780307710291",
+"9780940450059"
+]
+},
+{
+"label":"Sit! Stay! Speak!",
+"isbns": [
+"9780062379269"
+]
+},
+{
+"label":"Wild Dogs",
+"isbns": [
+"9780393060157"
+]
+},
+{
+"label":"Lily and the Octopus",
+"isbns": [
+"9781442399624",
+"9781509412198",
+"9781501126222",
+"9781410490834"
+]
+},
+{
+"label":"The Good Pilot Peter Woodhouse",
+"isbns": [
+"9781524747534",
+"9781524747541"
+]
+},
+{
+"label":"A Dog's Purpose",
+"isbns": [
+"9780765326263",
+"9781400196456"
+]
+}
+]
+}

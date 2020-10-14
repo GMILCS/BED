@@ -1,0 +1,97 @@
+{
+    "label": "Books for Dog Lovers",
+    "description": "Dog Mysteries",
+    "list": 
+  [
+{
+"label":"Dog On It",
+"isbns": [
+"9781436171977",
+"9781416585831"
+]
+},
+{
+"label":"Muzzled",
+"isbns": [
+"9781615954797",
+"9781504639064",
+"9781464201844"
+]
+},
+{
+"label":"The Finders",
+"isbns": [
+"9781250244536",
+"9781624617126"
+]
+},
+{
+"label":"A Borrowing of Bones",
+"isbns": [
+"9781250153036",
+"9781427298812"
+]
+},
+{
+"label":"Suspect",
+"isbns": [
+"9780399161483",
+"9781410455130",
+"9781101609163"
+]
+},
+{
+"label":"Yappy Hour",
+"isbns": [
+"9781250069115",
+"9781504642309"
+]
+},
+{
+"label":"Deception Cove",
+"isbns": [
+"9780316448703",
+"9781549115554"
+]
+},
+{
+"label":"A Nose for Justice",
+"isbns": [
+"9780345511812"
+]
+},
+{
+"label":"The Search",
+"isbns": [
+"9781101183892",
+"9780399156571"
+]
+},
+{
+"label":"Breaking Creed",
+"isbns": [
+"9780399170768",
+"9780698160675"
+]
+},
+{
+"label":"Deadly Virtues",
+"isbns": [
+"9781250023445"
+]
+},
+{
+"label":"The K Team",
+"isbns": [
+"9781250257192",
+"9781250260802"
+]
+},
+{
+"label":"The Right Side",
+"isbns": [
+"9781501118401"
+]
+}
+]
+}
