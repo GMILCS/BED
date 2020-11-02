@@ -1,15 +1,8 @@
 {
-    "label": "November Displays - Fantasy",
+    "label": "October Displays - Fantasy",
     "description": "Fairy Tales",
     "list": 
   [
-{
-"label":"The Book of Lost Things",
-"isbns": [
-"99780743298858",
-"9781428120471"
-]
-},
 {
 "label":"Spinning Silver",
 "isbns": [
@@ -17,6 +10,19 @@
 "9780525531005",
 "9780399181009",
 "9780525530992"
+]
+},
+{
+"label":"Speak Easy",
+"isbns": [
+"9781596067271"
+]
+},
+{
+"label":"Gingerbread",
+"isbns": [
+"9781594634659",
+"9780525539087"
 ]
 },
 {
@@ -43,9 +49,10 @@
 ]
 },
 {
-"label":"Speak Easy",
+"label":"The Book of Lost Things",
 "isbns": [
-"9781596067271"
+"99780743298858",
+"9781428120471"
 ]
 },
 {
@@ -122,13 +129,6 @@
 "label":"Daughter of the Forest",
 "isbns": [
 "9780312848798"
-]
-},
-{
-"label":"Gingerbread",
-"isbns": [
-"9781594634659",
-"9780525539087"
 ]
 },
 {
