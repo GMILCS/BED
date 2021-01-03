@@ -1,0 +1,53 @@
+{
+    "label": "Favorite Reads of 2020",
+    "description": "Emily W",
+    "list": 
+  [
+  {
+"label":"Townie",
+"isbns": [
+"9780393064667",
+"9781441781604",
+"9781441781611"
+]
+},
+{
+"label":"The Underground Railroad",
+"isbns": [
+"9781524736255",
+"9780385537049",
+"9780385542364",
+"9781524736262",
+"9781524736309"
+]
+},
+{
+"label":"The Kitchen God's Wife",
+"isbns": [
+"9780399135781",
+"9781101004753"
+]
+},
+{
+"label":"Weather",
+"isbns": [
+"9780385351119",
+"9780385351102"
+]
+},
+{
+"label":"The English Patient",
+"isbns": [
+"9780307776624",
+"9780679416784"
+]
+},
+{
+"label":"How We Live Now",
+"isbns": [
+"9781635576887",
+"9781635576894"
+]
+}
+]
+}

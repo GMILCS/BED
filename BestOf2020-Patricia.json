@@ -1,0 +1,61 @@
+{
+    "label": "Favorite Reads of 2020",
+    "description": "Patricia",
+    "list": 
+  [
+  {
+"label":"The City We Became",
+"isbns": [
+"9780316509848",
+"9780316509862",
+"9781549157257",
+"9781549157264"
+]
+},
+{
+"label":"Secondhand",
+"isbns": [
+"9781635570106",
+"9781635570120"
+]
+},
+{
+"label":"The Ember Blade",
+"isbns": [
+"9781473214842"
+]
+},
+{
+"label":"The Modern Cook's Year",
+"isbns": [
+"9781419736155"
+]
+},
+{
+"label":"Magic for Liars",
+"isbns": [
+"9781250174604",
+"9781250174611",
+"9781250227867"
+]
+},
+{
+"label":"The Death of Mrs. Westaway",
+"isbns": [
+"9781432851279",
+"9781501156212",
+"9781501156229",
+"9781508251705",
+"9781508251712"
+]
+},
+{
+"label":"Death on Tap",
+"isbns": [
+"9781250108630",
+"9781250108647",
+"9781799765035"
+]
+}
+]
+}

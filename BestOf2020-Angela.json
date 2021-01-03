@@ -1,0 +1,56 @@
+{
+    "label": "Favorite Reads of 2020",
+    "description": "Angela",
+    "list": 
+  [
+  {
+"label":"The Invisble Life of Addie LaRue",
+"isbns": [
+"9780765387561",
+"9780765387585",
+"9781250777966",
+"9781250777959"
+]
+},
+{
+"label":"Help yourself: A guide to gut health for people who love delicious food",
+"isbns": [
+"9780358008392"
+]
+},
+{
+"label":"The Busy Toddler's Guide to Actual Parenting",
+"isbns": [
+"9781943147854"
+]
+},
+{
+"label":"Snapdragon",
+"isbns": [
+"9781250171115"
+]
+},
+{
+"label":"Heartstopper",
+"isbns": [
+"9781338617436"
+]
+},
+{
+"label":"The Long Way to a Small, Angry Planet",
+"isbns": [
+"9781515977278",
+"9780062444134",
+"9780062444127"
+]
+},
+{
+"label":"The House in the Cerulean Sea",
+"isbns": [
+"9781250217288",
+"9781250264299",
+"9781250217325"
+]
+}
+]
+}
