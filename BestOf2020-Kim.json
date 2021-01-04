@@ -1,0 +1,61 @@
+{
+    "label": "Favorite Reads of 2020",
+    "description": "Kim",
+    "list": 
+  [
+  {
+"label":"The Extraordinary Life of Sam Hell",
+"isbns": [
+"9781503949003"
+]
+},
+{
+"label":"Have You Seen Luis Velez?",
+"isbns": [
+"9781542042369"
+]
+},
+{
+"label":"Big Lies in a Small Town",
+"isbns": [
+"9781250087331",
+"9781250087355",
+"9781250259912"
+]
+},
+{
+"label":"SThe Kite Runner",
+"isbns": [
+"9781101217238",
+"9781402596650",
+"9781573222457",
+"9781585473632"
+]
+},
+{
+"label":"The Supremes at Earl's All-You-Can-Eat",
+"isbns": [
+"9780307959928",
+"9780307959935",
+"9780385362900"
+]
+},
+{
+"label":"Everybody's Son",
+"isbns": [
+"9780062442246",
+"9780062442253"
+]
+},
+{
+"label":"The Harry Potter Series",
+"isbns": [
+"9780545790352",
+"9780590353403",
+"9781781100486",
+"9781781102251",
+"9781781109762"
+]
+}
+]
+}
