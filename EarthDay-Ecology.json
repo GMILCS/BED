@@ -1,0 +1,105 @@
+{
+    "label": "Earth Day 2021 - Ecology",
+    "description": "Books about the ecology of our amazing planet.",
+    "list": 
+  [
+  {
+"label":"The Hidden Life of Trees",
+"isbns": [
+"9781771642484",
+"9781771642491",
+"9780008218348"
+]
+},
+{
+"label":"Making a Home for Wildlife",
+"isbns": [
+"9780811737722"
+]
+},
+{
+"label":"The Ecology Book",
+"isbns": [
+"9781465479587"
+]
+},
+{
+"label":"The Eternal Frontier",
+"isbns": [
+"9780871137890"
+]
+},
+{
+"label":"Great Adaptations",
+"isbns": [
+"9780691195254"
+]
+},
+{
+"label":"American Terroir",
+"isbns": [
+"9781596916487"
+]
+},
+  {
+"label":"A Field Guide to Eastern Forests",
+"isbns": [
+"9780395928950"
+]
+},
+{
+"label":"The Atlantic Coast",
+"isbns": [
+"9781553654469"
+]
+},
+{
+"label":"Rewilding the world",
+"isbns": [
+"9780805078268"
+]
+},
+{
+"label":"Out of Eden",
+"isbns": [
+"9780374219734"
+]
+},
+{
+"label":"Braiding Sweetgrass",
+"isbns": [
+"9781571311771"
+]
+},
+{
+"label":"The Wild Out Your Window",
+"isbns": [
+"9780892725755"
+]
+},
+{
+"label":"Life Changing",
+"isbns": [
+"9781472956712"
+]
+},
+{
+"label":"Communities & Consequences",
+"isbns": [
+"9781931807678"
+]
+},
+{
+"label":"Around the World in 80 Trees",
+"isbns": [
+"9781786271617"
+]
+},
+{
+"label":"Earth in the Balance",
+"isbns": [
+"9780395578216"
+]
+}
+]
+}
