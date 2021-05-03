@@ -1,0 +1,145 @@
+{
+    "label": "April 2021 Displays - Simple Science",
+    "description": "Reading ideas for the citizen scientist.",
+    "list": 
+  [
+  {
+"label":"The End of Everything",
+"isbns": [
+"9781982103545"
+]
+},
+{
+"label":"The Field Guide to Citizen Science",
+"isbns": [
+"9781604698473"
+]
+},
+{
+"label":"Thing Explainer",
+"isbns": [
+"9780544668256",
+"9780544668607"
+]
+},
+{
+"label":"Astrophysics for People in a Hurry",
+"isbns": [
+"9780393609394",
+"9781538408056",
+"9781538408001",
+"9781538408063",
+"9781432843526",
+"9780393609400"
+]
+},
+{
+"label":"How Not to Be Wrong",
+"isbns": [
+"9780698163843",
+"9781594205224"
+]
+},
+{
+"label":"Wild Urban Plants of the Northeast",
+"isbns": [
+"9780801474583",
+"9781501740466"
+]
+},
+  {
+"label":"A Brief History of Time",
+"isbns": [
+"9780553896923",
+"9780553109535"
+]
+},
+{
+"label":"Citizen Scientist",
+"isbns": [
+"9781615192434"
+]
+},
+{
+"label":"Seven Brief Lessons on Physics",
+"isbns": [
+"9780399184413",
+"9780399567391",
+"9780399184437"
+]
+},
+{
+"label":"Undeniable",
+"isbns": [
+"9781427252104",
+"9781250007131"
+]
+},
+{
+"label":"AsapScience",
+"isbns": [
+"9781476756219"
+]
+},
+{
+"label":"Cook's Science",
+"isbns": [
+"9781940352459"
+]
+},
+{
+"label":"The Fabric of the Cosmos",
+"isbns": [
+"9780375412882",
+"9780739353271"
+]
+},
+{
+"label":"Neurocomic",
+"isbns": [
+"9781907704703"
+]
+},
+{
+"label":"The Science Book",
+"isbns": [
+"9781465419651"
+]
+},
+{
+"label":"A Short History of Nearly Everything",
+"isbns": [
+"9780739353202",
+"9780767916417",
+"9780767908177"
+]
+},
+{
+"label":"Packing for Mars",
+"isbns": [
+"9780393068474"
+]
+},
+{
+"label":"Cosmos",
+"isbns": [
+"9780307800985",
+"9780345539434"
+]
+},
+{
+"label":"What If?",
+"isbns": [
+"9780544272644",
+"9780544272996",
+"9781483030159"
+]
+},
+{
+"label":"Death By Black Hole",
+"isbns": [
+"9780393062243"
+]
+}
+]
+}
