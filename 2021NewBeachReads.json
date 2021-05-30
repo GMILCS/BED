@@ -1,0 +1,126 @@
+{
+    "label": "New Beach reads for 2021",
+    "description": "Books arriving this summer to read on the beach.",
+    "list": 
+  [
+  {
+"label":"Haven Point",
+"isbns": [
+"9781250266521"
+]
+},
+{
+"label":"Golden Girl",
+"isbns": [
+"9781549107450",
+"9780316420082"
+]
+},
+{
+"label":"Guncle",
+"isbns": [
+"9780525542292",
+"9780525542285"
+]
+},
+{
+"label":"That Summer",
+"isbns": [
+"9781501133541",
+"9781797122090",
+"9781501133565",
+"9781797122106"
+]
+},
+{
+"label":"The View Was Exhausting",
+"isbns": [
+"9781538734902"
+]
+},
+{
+"label":"Last Summer at the Golden Hotel",
+"isbns": [
+"9780593199725",
+"9780593346990",
+"9780593199732"
+]
+},
+  {
+"label":"The Summer of Lost and Found",
+"isbns": [
+"9781982148348",
+"9781797122113",
+"9781982148362"
+]
+},
+{
+"label":"Disappearing Act",
+"isbns": [
+"9780593158036"
+]
+},
+{
+"label":"People We Meet on Vacation",
+"isbns": [
+"9781984806758",
+"9781984806765",
+"9780593346815"
+]
+},
+{
+"label":"Come Fly the World",
+"isbns": [
+"9780358449355",
+"9780358251408"
+]
+},
+{
+"label":"Reunion Beach",
+"isbns": [
+"9780063048959",
+"9780063090088",
+"9781665064422"
+]
+},
+{
+"label":"Road Trip",
+"isbns": [
+"9780593335024"
+]
+},
+{
+"label":"Stepsisters",
+"isbns": [
+"9780778312031",
+"9780369701015"
+]
+},
+{
+"label":"Family Reunion",
+"isbns": [
+"9781524798789",
+"9781524798796"
+]
+},
+{
+"label":"Malibu Rising",
+"isbns": [
+"9781524798659"
+]
+},
+{
+"label":"Revival Season",
+"isbns": [
+"9781982133306"
+]
+},
+{
+"label":"Under the Southern Sky",
+"isbns": [
+"9781982117733",
+"9781982117726"
+]
+}
+]
+}
