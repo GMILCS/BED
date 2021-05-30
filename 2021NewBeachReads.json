@@ -4,6 +4,14 @@
     "list": 
   [
   {
+"label":"Last Summer at the Golden Hotel",
+"isbns": [
+"9780593199725",
+"9780593346990",
+"9780593199732"
+]
+},
+   {
 "label":"Haven Point",
 "isbns": [
 "9781250266521"
@@ -36,14 +44,6 @@
 "label":"The View Was Exhausting",
 "isbns": [
 "9781538734902"
-]
-},
-{
-"label":"Last Summer at the Golden Hotel",
-"isbns": [
-"9780593199725",
-"9780593346990",
-"9780593199732"
 ]
 },
   {
