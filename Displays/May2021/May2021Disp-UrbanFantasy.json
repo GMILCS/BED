@@ -1,0 +1,187 @@
+{
+    "label": "June 2021 Displays - Urban Fantasy",
+    "description": "Fantasy Novels that take place in cities.",
+    "list": 
+  [
+  {
+"label":"Ninth House",
+"isbns": [
+"9781250313072",
+"9781250313089",
+"9781250230911",
+"9781250313089",
+"9781250238061",
+"9781432872137"
+]
+},
+{
+"label":"Neverwhere",
+"isbns": [
+"9780061549113",
+"9780062371058",
+"9780062314314"
+]
+},
+{
+"label":"Trail of Lightning",
+"isbns": [
+"9781534413498"
+]
+},
+{
+"label":"The Brotherhood of the Wheel",
+"isbns": [
+"9780765380289"
+]
+},
+{
+"label":"Charming",
+"isbns": [
+"9780316253390"
+]
+},
+{
+"label":"American Gods",
+"isbns": [
+"9780062109590",
+"9780062101914", 
+"9780062059888",
+"9781538462089"
+]
+},
+  {
+"label":"The Wall of Storms",
+"isbns": [
+"9781481424301"
+]
+},
+{
+"label":"The City We Became",
+"isbns": [
+"9781549157257",
+"9781549157264",
+"9780316509848",
+"9780316509862"
+]
+},
+{
+"label":"Upon a Burning Throne",
+"isbns": [
+"9781328916280"
+]
+},
+{
+"label":"Food of the Gods",
+"isbns": [
+"9781781085196"
+]
+},
+{
+"label":"The Magicians",
+"isbns": [
+"9781101080603",
+"9780670020553",
+"9781415962466"
+]
+},
+{
+"label":"Dreams Underfoot",
+"isbns": [
+"9781433260155",
+"9780765306791"
+]
+},
+{
+"label":"Dead Until Dark",
+"isbns": [
+"9780441008537",
+"9781101146316"
+]
+},
+{
+"label":"House of Earth and Blood",
+"isbns": [
+"9781635574043",
+"9781635574050"
+]
+},
+{
+"label":"The Girl with Ghost Eyes",
+"isbns": [
+"9781940456362",
+"9781940456454"
+]
+},
+{
+"label":"Chosen Ones",
+"isbns": [
+"9780358164081",
+"9780358168478"
+]
+},
+{
+"label":"Jonathan Stranger & Mr. Norrell",
+"isbns": [
+"9781608195350",
+"9781408856888",
+"9781427220707"
+]
+},
+{
+"label":"The Outlaw Demon Wails",
+"isbns": [
+"9780061629549",
+"9780061580789",
+"9780060788704"
+]
+},
+{
+"label":"Side Jobs",
+"isbns": [
+"9780451463654",
+"9781101464076"
+]
+},
+{
+"label":"A Darker Shade of Magic",
+"isbns": [
+"9781494590758",
+"9780765376459",
+"9781466851375"
+]
+},
+{
+"label":"The City",
+"isbns": [
+"9780345545930",
+"9780345545947"
+]
+},
+{
+"label":"Silver Borne",
+"isbns": [
+"9781101403563",
+"9780441018192"
+]
+},
+{
+"label":"Prudence",
+"isbns": [
+"9781478959090",
+"9780316212243"
+]
+},
+{
+"label":"Mist",
+"isbns": [
+"9780765332080"
+]
+},
+{
+"label":"Dark and Stormy Knights",
+"isbns": [
+"9780312598341"
+]
+}
+]
+}
