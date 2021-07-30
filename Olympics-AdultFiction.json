@@ -1,0 +1,86 @@
+{
+    "label": "Olympics",
+    "description": "Adult Fiction",
+    "list": 
+  [
+  {
+"label":"Fast Girls",
+"isbns": [
+"9780063000070",
+"9780062938008",
+"9780063016613"
+]
+},
+{
+"label":"Bliss, Remembered",
+"isbns": [
+"9781590203590"
+]
+},
+{
+"label":"The Games",
+"isbns": [
+"9780316407113",
+"9780316290203",
+"9781478965060"
+]
+},
+{
+"label":"Again to Carthage",
+"isbns": [
+"9781439192481"
+]
+},
+{
+"label":"The Hopeful",
+"isbns": [
+"9781632460028"
+]
+},
+{
+"label":"Flight from Berlin",
+"isbns": [
+"9780062091567"
+]
+},
+  {
+"label":"Crazy Blood",
+"isbns": [
+"9781250064097"
+]
+},
+{
+"label":"The Happiest Girl in the World",
+"isbns": [
+"9780063019058",
+"9780063019041"
+]
+},
+  {
+"label":"Aquamarine",
+"isbns": [
+"9780395585627"
+]
+},
+{
+"label":"A Game of Lies",
+"isbns": [
+"9780765327338"
+]
+},
+{
+"label":"Gravity",
+"isbns": [
+"9781501135750"
+]
+},
+{
+"label":"Private Games",
+"isbns": [
+"9781611131291",
+"9780316206822",
+"9781611130775"
+]
+}
+]
+}

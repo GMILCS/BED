@@ -1,0 +1,65 @@
+{
+    "label": "Olympics",
+    "description": "About the games",
+    "list": 
+  [
+  {
+"label":"The Olympics: A History of the Modern Games",
+"isbns": [
+"9780252017018"
+]
+},
+{
+"label":"Circus Maximus",
+"isbns": [
+"9780815726517",
+"9780815727286"
+]
+},
+{
+"label":"The Naked Olympics",
+"isbns": [
+"9780812969917"
+]
+},
+{
+"label":"The End of the Perfect 10",
+"isbns": [
+"9781501101366"
+]
+},
+{
+"label":"The Games",
+"isbns": [
+"9780393292770"
+]
+},
+{
+"label":"The Boys in the Boat",
+"isbns": [
+"9781101622742",
+"9780670025817",
+"9781470352509",
+"9781470352516"
+]
+},
+  {
+"label":"Going for the Gold",
+"isbns": [
+"9780882081168"
+]
+},
+{
+"label":"A Team of Their Own",
+"isbns": [
+"9781335005533"
+]
+},
+{
+"label":"How to Watch the Olympics",
+"isbns": [
+"9780143121879"
+]
+}
+]
+}
