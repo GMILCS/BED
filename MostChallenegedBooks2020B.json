@@ -1,0 +1,80 @@
+{
+    "label": "Banned Books Week",
+    "description": "Most Challeneged Books of 2020",
+    "list": 
+  [
+  {
+"label":"George by Alex Gino",
+"isbns": [
+"9780545812542"
+]
+},
+{
+"label":"Stamped by Ibram X. Kendi and Jason Reynolds",
+"isbns": [
+"9780316453691",
+"9780316453677",
+"9781549130724"
+]
+},
+{
+"label":"All American Boys by Jason Reynolds",
+"isbns": [
+"9781481463331",
+"9781481463355",
+"9781442398672"
+]
+},
+{
+"label":"Speak by Laurie Halse Anderson",
+"isbns": [
+"9781467656344",
+"9780739344538",
+"9780374311254",
+"9780374300289"
+]
+},
+{
+"label":"The Absolutely True Diary of a Part-Time Indian by Sherman Alexie",
+"isbns": [
+"9780316013680",
+"9780316280372",
+"9781456103521"
+]
+},
+{
+"label":"To Kill a Mockingbird by Harper Lee",
+"isbns": [
+"9780062368683",
+"9780062368690",
+"9780060194994",
+"9781428113510"
+]
+},
+{
+"label":"Of Mice and Men by John Steinbeck",
+"isbns": [
+"9780142000670",
+"9780140177398",
+"9780788737244",
+"9781101530900"
+]
+},
+{
+"label":"The Bluest Eye by Toni Morrison",
+"isbns": [
+"9780307386588",
+"9780375411557"
+]
+},
+{
+"label":"The Hate U Give",
+"isbns": [
+"9781509465767",
+"9780062498533",
+"9780062677082",
+"9780062498557"
+]
+}
+]
+}
