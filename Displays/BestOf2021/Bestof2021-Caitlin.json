@@ -1,0 +1,89 @@
+{
+    "label": "Favorite Books of 2021",
+    "description": "Caitlin",
+    "list": 
+  [
+  {
+"label":"People We Meet on Vacation",
+"isbns": [
+"9780593346815",
+"9781432890193",
+"9781984806765",
+"9780593346808",
+"9781984806758"
+]
+},
+{
+"label":"Six of Crows",
+"isbns": [
+"9781627792127",
+"9781627795227"
+]
+},
+{
+"label":"Bravey",
+"isbns": [
+"9781984801128"
+]
+},
+{
+"label":"The War That Saved My Life",
+"isbns": [
+"9781467697439",
+"9781101637807",
+"9781101890622",
+"9780803740815",
+"9780553556537"
+]
+},
+{
+"label":"Broken Horses",
+"isbns": [
+"9780593237243"
+]
+},
+{
+"label":"Most Likely",
+"isbns": [
+"9780316454803",
+"9780316454834"
+]
+},
+{
+"label":"Braiding Sweetgrass",
+"isbns": [
+"9781571311771",
+"9781799983156"
+]
+},
+{
+"label":"Crying in H Mart",
+"isbns": [
+"9780525657750",
+"9780593153901",
+"9780525657743"
+]
+},
+{
+"label":"Mexican Gothic",
+"isbns": [
+"9780525620785",
+"9780525620792",
+"9780593213865"
+]
+},
+{
+"label":"Parable of the Sower",
+"isbns": [
+"9781609807191",
+"9781453263617"
+]
+},
+  {
+"label":"Hunt, Gather, Parent",
+"isbns": [
+"9781982149673"
+]
+}
+]
+}

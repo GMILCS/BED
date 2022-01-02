@@ -1,0 +1,61 @@
+{
+    "label": "Favorite Books of 2021",
+    "description": "Emily W.",
+    "list": 
+  [
+  {
+"label":"The Custom of the Country",
+"isbns": [
+"9780684146553",
+"9780307950581"
+]
+},
+{
+"label":"March",
+"isbns": [
+"9781101079218",
+"9780143036661"
+]
+},
+{
+"label":"Swimming to the Top of the Tide",
+"isbns": [
+"9781942658870"
+]
+},
+{
+"label":"These Precious Days",
+"isbns": [
+"9780063092808",
+"9780063136847",
+"9780063092815"
+]
+},
+{
+"label":"A Great Idea at the Time",
+"isbns": [
+"9781586484873"
+]
+},
+{
+"label":"L.A. Confidential",
+"isbns": [
+"9780446674249"
+]
+},
+{
+"label":"The Hours",
+"isbns": [
+"9780374172893"
+]
+},
+ {
+"label":"The Sun Also Rises",
+"isbns": [
+"9781428123816",
+"9780684830513",
+"9781476739953"
+]
+}
+]
+}

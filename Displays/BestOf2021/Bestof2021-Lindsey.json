@@ -1,0 +1,94 @@
+{
+    "label": "Favorite Books of 2021",
+    "description": "Lindsey",
+    "list": 
+  [
+  {
+"label":"Hamnet",
+"isbns": [
+"9780593212158",
+"9780593212141",
+"9780525657613",
+"9781432887551",
+"9780525657606"
+]
+},
+{
+"label":"The Starless Sea",
+"isbns": [
+"9780385541213",
+"9780385541220",
+"9780735207882",
+"9780735207905",
+"9780593106488",
+"9780735207875"
+]
+},
+{
+"label":"Love Poems for People with Children",
+"isbns": [
+"978059308524"
+]
+},
+{
+"label":"The Little Snake",
+"isbns": [
+"9781786893864"
+]
+},
+{
+"label":"Greenglass House",
+"isbns": [
+"9780544055551",
+"9780544052703",
+"9781490682129"
+]
+},
+{
+"label":"Fables",
+"isbns": [
+"9781401224271",
+"9781401237554"
+]
+},
+{
+"label":"Ella Minnow Pea",
+"isbns": [
+"9780385722438"
+]
+},
+{
+"label":"The Hidden Life of Trees",
+"isbns": [
+"9781771642484",
+"9781771642491",
+"9780008218348"
+]
+},
+{
+"label":"Pumpkinheads",
+"isbns": [
+"9781626721623"
+]
+},
+{
+"label":"Rain Like Hammers",
+"isbns": [
+"9781534313552"
+]
+},
+{
+"label":"Sorcery of Thorns",
+"isbns": [
+"9781481497619"
+]
+},
+ {
+"label":"Tales from the Hinterland",
+"isbns": [
+"9781250302731",
+"9781250302724"
+]
+}
+]
+}

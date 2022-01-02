@@ -1,0 +1,47 @@
+{
+    "label": "Favorite Books of 2021",
+    "description": "Tricia",
+    "list": 
+  [
+  {
+"label":"The Thursday Murder Club",
+"isbns": [
+"9780593410257",
+"9781984880963",
+"9781984880970",
+"9780593289501"
+]
+},
+{
+"label":"The Man Who Died Twice",
+"isbns": [
+"9781984880994",
+"9781984881007"
+]
+},
+{
+"label":"In an Instant",
+"isbns": [
+"9781542006583"
+]
+},
+{
+"label":"Dracul",
+"isbns": [
+"9780593331194"
+]
+},
+{
+"label":"Haunting of Ashburn House",
+"isbns": [
+"9781728220130"
+]
+},
+ {
+"label":"As You Wish",
+"isbns": [
+"9781476764023"
+]
+}
+]
+}

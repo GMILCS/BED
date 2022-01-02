@@ -1,0 +1,60 @@
+{
+    "label": "Favorite Books of 2021",
+    "description": "Patricia",
+    "list": 
+  [
+  {
+"label":"The Wrong Stars",
+"isbns": [
+"9780857667090"
+]
+},
+{
+"label":"Project Hail Mary",
+"isbns": [
+"9781713650119",
+"9780593135204",
+"9780593135211"
+]
+},
+{
+"label":"Let's Make Dumplings!",
+"isbns": [
+"9781984858757"
+]
+},
+{
+"label":"Her Royal Spyness",
+"isbns": [
+"9781436229135",
+"9780425222522"
+]
+},
+{
+"label":"The Southern Book Club's Guide to Slaying Vampires",
+"isbns": [
+"9781094136981",
+"9781094136936",
+"9781683691440",
+"9781094136998",
+"9781683691433"
+]
+},
+{
+"label":"Jim Henson: The Biography",
+"isbns": [
+"9780345526113",
+"9780804128667",
+"9780345526137"
+]
+},
+ {
+"label":"Remote Control",
+"isbns": [
+"9781250772800",
+"9781250772794",
+"9781250772961"
+]
+}
+]
+}

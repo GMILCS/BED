@@ -1,0 +1,60 @@
+{
+    "label": "Favorite Books of 2021",
+    "description": "Angela",
+    "list": 
+  [
+  {
+"label":"You'll Never Believe What Happened to Lacey",
+"isbns": [
+"9781538719367",
+"9781538705377",
+"9781549162411"
+]
+},
+{
+"label":"Thirsty Mermaids",
+"isbns": [
+"9781982133573"
+]
+},
+{
+"label":"Broken (In the Best Possible Way)",
+"isbns": [
+"9781250790934",
+"9781250832443",
+"9781250077035",
+"9781250077059"
+]
+},
+{
+"label":"What Kind of Woman: Poems",
+"isbns": [
+"9780063087330"
+]
+},
+{
+"label":"The Galaxy and the Ground Within",
+"isbns": [
+"9780062936059",
+"9780062936035"
+]
+},
+{
+"label":"The Anthropocene Reviewed",
+"isbns": [
+"9780593408544",
+"9780525555223",
+"9780525555216"
+]
+},
+  {
+"label":"Firekeeper's Daughter",
+"isbns": [
+"9781250766564",
+"9781250766571",
+"9781250779519",
+"9781250831033"
+]
+}
+]
+}
