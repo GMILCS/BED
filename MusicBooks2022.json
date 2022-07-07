@@ -1,0 +1,107 @@
+{
+    "label": "Books for Music Lovers",
+    "description": "Summer 2022",
+    "list": 
+  [
+  {
+"label":"Music Is History",
+"isbns": [
+"9781419751431",
+"9781705012581",
+"9781647001841"
+]
+},
+{
+"label":"The Rest Is Noise",
+"isbns": [
+"9780374249397"
+]
+},
+{
+"label":"Musicophilia",
+"isbns": [
+"9781400040810",
+"9781415942680"
+]
+},
+{
+"label":"Jazz: A History of America's Music",
+"isbns": [
+"9780679445517"
+]
+},
+{
+"label":"Music: A Subversive History",
+"isbns": [
+"9781541644366"
+]
+},
+{
+"label":"This Is Your Brain on Music",
+"isbns": [
+"9780525949695"
+]
+},
+{
+"label":"Absolutely on Music",
+"isbns": [
+"9780385354349"
+]
+},
+{
+"label":"Girls Like Us",
+"isbns": [
+"9780743491471"
+]
+},
+{
+"label":"How Music Works",
+"isbns": [
+"9781936365531",
+"9781938073489"
+]
+},
+{
+"label":"Major Labels: A History of Popular Music in Seven Genres",
+"isbns": [
+"9781669639992",
+"9780593334836",
+"9780593334843",
+"9780593553787"
+]
+},
+{
+"label":"Moving to Higher Ground: How Jazz Can Change Your Life",
+"isbns": [
+"9781400060788"
+]
+},
+{
+"label":"The First Time",
+"isbns": [
+"9781786272980"
+]
+},
+{
+"label":"The Song Machine",
+"isbns": [
+"9780393241921"
+]
+},
+{
+"label":"The Storyteller",
+"isbns": [
+"9780063076099",
+"9780063137578",
+"9780063076112",
+"9780063076129"
+]
+},
+ {
+"label":"Why You Love Music",
+"isbns": [
+"9780316260657"
+]
+}
+]
+}
