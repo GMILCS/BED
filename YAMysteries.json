@@ -1,0 +1,275 @@
+{
+    "label": "Young Adult Mysteries",
+    "description": "High school can be murder...",
+    "list": 
+  [
+  {
+"label":"The Mary Shelley Club",
+"isbns": [
+"9781250230102"
+]
+},
+{
+"label":"The Liar Society",
+"isbns": [
+"9781402256349",
+"9781402256332"
+]
+},
+{
+"label":"A Study in Charlotte",
+"isbns": [
+"9780062417329",
+"9780062398932",
+"9780062398901"
+]
+},
+{
+"label":"We Were Liars",
+"isbns": [
+"9780385741262",
+"9780375984402",
+"9780804168427"
+]
+},
+{
+"label":"Broken Things",
+"isbns": [
+"9780062224132"
+]
+},
+{
+"label":"The Cheerleaders",
+"isbns": [
+"9780525595618"
+]
+},
+{
+"label":"Firekeeper's Daughter",
+"isbns": [
+"9781250779519",
+"9781250831033",
+"9781250766564",
+"9781250766571"
+]
+},
+{
+"label":"I Am Princess X",
+"isbns": [
+"9780545620857",
+"9780545839112"
+]
+},
+{
+"label":"How We Fell Apart",
+"isbns": [
+"9781547603978"
+]
+},
+{
+"label":"One of Us Is Lying",
+"isbns": [
+"9781524714680",
+"9781524756918",
+"9781524756895",
+"9781524714703"
+]
+},
+{
+"label":"This Is Our Story",
+"isbns": [
+"9781484730898"
+]
+},
+{
+"label":"When All the Girls Are Sleeping",
+"isbns": [
+"9780593180792"
+]
+},
+{
+"label":"Pride and Premeditation",
+"isbns": [
+"9780062889805",
+"9780062889829"
+]
+},
+{
+"label":"The Darkest Corners",
+"isbns": [
+"9780553521450",
+"9780553521474"
+]
+},
+{
+"label":"There's Someone Inside Your House",
+"isbns": [
+"9780525495307",
+"9781101590027",
+"9780525426011"
+]
+},
+{
+"label":"Truly Devious",
+"isbns": [
+"9780062338051",
+"9780062338075",
+"9780062822000"
+]
+},
+{
+"label":"You Owe Me a Murder",
+"isbns": [
+"9781328519023"
+]
+},
+{
+"label":"Blood on My Hands",
+"isbns": [
+"9781606840238",
+"9781606842393"
+]
+},
+{
+"label":"The Diviners",
+"isbns": [
+"9780449808764",
+"9780316126113",
+"9780316214650"
+]
+},
+{
+"label":"A Good Girl's Guide to Murder",
+"isbns": [
+"9781984896360",
+"9780593155257",
+"9781984896384"
+]
+},
+{
+"label":"These Shallow Graves",
+"isbns": [
+"9780385737654",
+"9780307982919",
+"9781101916278"
+]
+},
+{
+"label":"The Forest of Stolen Girls",
+"isbns": [
+"9780593400791",
+"9781250229588"
+]
+},
+{
+"label":"Monday's Not Coming",
+"isbns": [
+"9780062422699",
+"9780062422675"
+]
+},
+{
+"label":"Overturned",
+"isbns": [
+"9780545812504"
+]
+},
+{
+"label":"I Hunt Killers",
+"isbns": [
+"9781611131888",
+"9780316125840",
+"9780316201759"
+]
+},
+{
+"label":"Buzz Kill",
+"isbns": [
+"9780544301856"
+]
+},
+{
+"label":"Five Total Strangers",
+"isbns": [
+"9781492657224",
+"9781662047121"
+]
+},
+ {
+"label":"Hollow Fires",
+"isbns": [
+"9780316282642",
+"9780316446211"
+]
+},
+{
+"label":"Weird Girl and What's His Name",
+"isbns": [
+"9781941110270"
+]
+},
+{
+"label":"The City Beautiful",
+"isbns": [
+"9781335402509"
+]
+},
+{
+"label":"Getting the Girl",
+"isbns": [
+"9780060765255"
+]
+},
+{
+"label":"You'll Be the Death of Me",
+"isbns": [
+"9780593175866",
+"9780593208342",
+"9780593175873"
+]
+},
+{
+"label":"The Mystery of Hollow Places",
+"isbns": [
+"9780062373342"
+]
+},
+{
+"label":"The Outliers",
+"isbns": [
+"9780062359094"
+]
+},
+{
+"label":"A Spy in the House",
+"isbns": [
+"9780763651824",
+"9780763640675"
+]
+},
+{
+"label":"The Fear",
+"isbns": [
+"9780593125014"
+]
+},
+{
+"label":"The Takedown",
+"isbns": [
+"9781484757420"
+]
+},
+{
+"label":"The Project",
+"isbns": [
+"9781250105738"
+]
+},
+ {
+"label":"Undead Girl Gang",
+"isbns": [
+"9780451478238"
+]
+}
+]
+}
