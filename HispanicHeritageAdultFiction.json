@@ -1,0 +1,135 @@
+{
+    "label": "Hispanic Heritage Month",
+    "description": "Adult Fiction",
+    "list": 
+  [
+  {
+"label":"Olga Dies Dreaming",
+"isbns": [
+"9781250786173",
+"9781250835567",
+"9781250835550",
+"9781250786197"
+]
+},
+{
+"label":"Afterlife",
+"isbns": [
+"9781643750507",
+"9781980095880",
+"9781643750255",
+"9781643750507"
+]
+},
+{
+"label":"Mexican Gothic",
+"isbns": [
+"9780525620785",
+"9780525620792",
+"9780593213865"
+]
+},
+{
+"label":"The House on Mango Street",
+"isbns": [
+"9780679433354",
+"9780345807199"
+]
+},
+{
+"label":"The Savage Detectives",
+"isbns": [
+"9780374191481"
+]
+},
+{
+"label":"Bless Me, Ultima",
+"isbns": [
+"9780446675369"
+]
+},
+{
+"label":"The Brief Wondrous Life of Oscar Wao",
+"isbns": [
+"9781594489587",
+"9781415941959",
+"9780525493990"
+]
+},
+{
+"label":"You Had Me at Hola",
+"isbns": [
+"9780062959928",
+"9780062959959",
+"9780062959935"
+]
+},
+{
+"label":"Dreaming in Cuban",
+"isbns": [
+"9780679408833"
+]
+},
+{
+"label":"The Gifted Gabaldon Sisters",
+"isbns": [
+"9780446699211"
+]
+},
+{
+"label":"Love in the Time of Cholera",
+"isbns": [
+"9780394561615",
+"9780816147175",
+"9781482948660",
+"9781483068534"
+]
+},
+{
+"label":"When We Left Cuba",
+"isbns": [
+"9780451490865"
+]
+},
+{
+"label":"The Hacienda",
+"isbns": [
+"9780593436691",
+"9780593436714"
+]
+},
+{
+"label":"Daughter of Fortune",
+"isbns": [
+"9780060833879",
+"9780060194918"
+]
+},
+{
+"label":"The House of Broken Angels",
+"isbns": [
+"9780316154888"
+]
+},
+{
+"label":"The Book of Unknown Americans",
+"isbns": [
+"9780385350846",
+"9780804191456",
+"9780385350853"
+]
+},
+{
+"label":"Sabrina & Corina",
+"isbns": [
+"9780679408833"
+]
+},
+ {
+"label":"The Taste of Sugar",
+"isbns": [
+"9781631497735"
+]
+}
+]
+}
