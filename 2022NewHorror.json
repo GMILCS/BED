@@ -1,0 +1,192 @@
+{
+    "label": "2022 New Horror",
+    "description": "Some of this year's new horror selections",
+    "list": 
+  [
+  {
+"label":"The Hacienda",
+"isbns": [
+"9780593436691",
+"9780593436714"
+]
+},
+{
+"label":"What Moves the Dead",
+"isbns": [
+"9781250830753",
+"9781250830784",
+"9781250856890"
+]
+},
+{
+"label":"Hidden Pictures",
+"isbns": [
+"9781250819345",
+"9781250855794"
+]
+},
+{
+"label":"The Weight of Blood",
+"isbns": [
+"9780063029149",
+"9780063029163"
+]
+},
+{
+"label":"The Passageway",
+"isbns": [
+"9781534322240"
+]
+},
+{
+"label":"Raising the Horseman",
+"isbns": [
+"9781368054614"
+]
+},
+{
+"label":"Leech",
+"isbns": [
+"9781250811189",
+"9781250811196"
+]
+},
+{
+"label":"We Spread",
+"isbns": [
+"9781982169350"
+]
+},
+{
+"label":"The Children on the Hill",
+"isbns": [
+"9781982153953",
+"9781982153977",
+"9781797136165"
+]
+},
+{
+"label":"Gallant",
+"isbns": [
+"9780062835772",
+"9780062835796",
+"9780063220751"
+]
+},
+{
+"label":"Fairy Tale",
+"isbns": [
+"9781668002186",
+"9781669659785",
+"9781668002179",
+"9781797145297"
+]
+},
+{
+"label":"Clementine",
+"isbns": [
+"9781534321281"
+]
+},
+{
+"label":"The Daughter of Doctor Moreau",
+"isbns": [
+"9780593355343",
+"9780593610015",
+"9780593355336"
+]
+},
+{
+"label":"The Gathering Dark",
+"isbns": [
+"9781645676225"
+]
+},
+{
+"label":"The Pallbearers Club",
+"isbns": [
+"9780063069916",
+"9780063069954"
+]
+},
+{
+"label":"Dead Silence",
+"isbns": [
+"9781250778550",
+"9781250819994"
+]
+},
+{
+"label":"Hide",
+"isbns": [
+"9780593359235"
+]
+},
+{
+"label":"Just Like Home",
+"isbns": [
+"9781250174727",
+"9781250840394"
+]
+},
+{
+"label":"The Getaway",
+"isbns": [
+"9781338752014"
+]
+},
+{
+"label":"The Honeys",
+"isbns": [
+"9781338745313",
+"9781338745320"
+]
+},
+{
+"label":"The Resting Place",
+"isbns": [
+"9781250249272",
+"9781250249289",
+"9781250839671"
+]
+},
+{
+"label":"Crema",
+"isbns": [
+"9781506726038"
+]
+},
+{
+"label":"Into the Sublime",
+"isbns": [
+"9781250191700"
+]
+},
+{
+"label":"The Book of Living Secrets",
+"isbns": [
+"9780062941428"
+]
+},
+{
+"label":"Little Eve",
+"isbns": [
+"9781250812650"
+]
+},
+{
+"label":"Wake the Bones",
+"isbns": [
+"9781250790828"
+]
+},
+ {
+"label":"Gwendy's Final Task",
+"isbns": [
+"9781587678011",
+"9781797135007",
+"9781982191566"
+]
+}
+]
+}
