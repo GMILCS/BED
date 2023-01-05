@@ -1,0 +1,61 @@
+{
+    "label": "Favorite Books of 2022",
+    "description": "Angela's Picks",
+    "list": 
+  [
+  {
+"label":"Daughter of the Moon Goddess",
+"isbns": [
+"9780063031302",
+"9780063031326"
+]
+},
+{
+"label":"Ducks: Two Years in the Oil Sands",
+"isbns": [
+"9781770462892"
+]
+},
+{
+"label":"Fortune Favors the Dead",
+"isbns": [
+"9780385546553",
+"9780385546560",
+"9780593293256"
+]
+},
+{
+"label":"Garlic & the Vampire",
+"isbns": [
+"9780062995094"
+]
+},
+{
+"label":"Garlic & the Witch",
+"isbns": [
+"9780062995124"
+]
+},
+{
+"label":"How to Keep House While Drowning",
+"isbns": [
+"9781668002841"
+]
+},
+{
+"label":"I'm Glad My Mom Died",
+"isbns": [
+"9781797147963",
+"9781982185824",
+"9781982185848",
+"9781797147949"
+]
+},
+ {
+"label":"Ride On",
+"isbns": [
+"9781250772824"
+]
+}
+]
+}

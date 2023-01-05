@@ -1,0 +1,62 @@
+{
+    "label": "Favorite Books of 2022",
+    "description": "Sue's Picks",
+    "list": 
+  [
+  {
+"label":"Finlay Donovan Is Killing It",
+"isbns": [
+"9781250241702",
+"9781250242204",
+"9781250790057"
+]
+},
+{
+"label":"The Diamond Eye",
+"isbns": [
+"9780062943521",
+"9780062943538",
+"9781669609490",
+"9780062943514"
+]
+},
+{
+"label":"The Ride of her Life",
+"isbns": [
+"9780593400654",
+"9780525619321"
+]
+},
+{
+"label":"The Girls Who Stepped Out of Line",
+"isbns": [
+"9781728230924",
+"9781728230931"
+]
+},
+{
+"label":"The Maid",
+"isbns": [
+"9780593356159",
+"9780593356166",
+"9780593452684",
+"9780593452691"
+]
+},
+{
+"label":"The Stationery Shop",
+"isbns": [
+"9781508286578",
+"9781982107482"
+]
+},
+ {
+"label":"We Are Not Like Them",
+"isbns": [
+"9781982181031",
+"9781982181055",
+"9781797131092"
+]
+}
+]
+}

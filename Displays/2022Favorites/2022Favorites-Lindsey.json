@@ -1,0 +1,107 @@
+{
+    "label": "Favorite Books of 2022",
+    "description": "Lindsey's Picks",
+    "list": 
+  [
+  {
+"label":"All Systems Red",
+"isbns": [
+"9781501977244",
+"9781250214713"
+]
+},
+{
+"label":"The Night Ship",
+"isbns": [
+"9781982180812",
+"9781982180836"
+]
+},
+{
+"label":"Crying in H Mart",
+"isbns": [
+"9780593153901",
+"9780525657743",
+"9780525657750"
+]
+},
+{
+"label":"Monstress",
+"isbns": [
+"9781632157096"
+]
+},
+{
+"label":"Other Birds",
+"isbns": [
+"9781250019868",
+"9781638085034",
+"9781250019882"
+]
+},
+{
+"label":"Scattered Showers",
+"isbns": [
+"9781250859303",
+"9781250855411"
+]
+},
+{
+"label":"Erotic Stories for Punjabi Widows",
+"isbns": [
+"9780062645128"
+]
+},
+{
+"label":"I'm Glad My Mom Died",
+"isbns": [
+"9781982185824",
+"9781982185848",
+"9781797147949",
+"9781797147963"
+]
+},
+{
+"label":"In Five Years",
+"isbns": [
+"9781982137441",
+"9781982137465",
+"9781797104133"
+]
+},
+{
+"label":"Lore Olympus",
+"isbns": [
+"9780593356074"
+]
+},
+{
+"label":"Nothing to See Here",
+"isbns": [
+"9780062913463",
+"9780062913487",
+"9781094027043"
+]
+},
+{
+"label":"Oathbringer",
+"isbns": [
+"9780765326379",
+"9781427275936"
+]
+},
+{
+"label":"The Coddling of the American Mind",
+"isbns": [
+"9780735224896"
+]
+},
+ {
+"label":"Fart Quest",
+"isbns": [
+"9781250795908",
+"9781250854087"
+]
+}
+]
+}

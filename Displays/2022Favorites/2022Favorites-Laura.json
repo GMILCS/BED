@@ -1,0 +1,75 @@
+{
+    "label": "Favorite Books of 2022",
+    "description": "Laura's Picks",
+    "list": 
+  [
+  {
+"label":"Around the World in 80 Trees",
+"isbns": [
+"9781786271617"
+]
+},
+{
+"label":"Bring Up the Bodies",
+"isbns": [
+"9780805090031",
+"9781427225849"
+]
+},
+{
+"label":"Run Towards the Danger",
+"isbns": [
+"9780593300350"
+]
+},
+{
+"label":"The Stolen Year",
+"isbns": [
+"9781541700987"
+]
+},
+{
+"label":"Wish You Were Here",
+"isbns": [
+"9781667066417",
+"9781984818423",
+"9781432893088",
+"9781984818416",
+"9780593508640",
+"9780593508657"
+]
+},
+{
+"label":"Heartstopper: Volume 1",
+"isbns": [
+"9781338617436",
+"9781338617450"
+]
+},
+{
+"label":"Heartstopper: Volume 2",
+"isbns": [
+"9781338617511",
+"9781338617498"
+]
+},
+{
+"label":"Heartstopper: Volume 3",
+"isbns": [
+"9781338617535"
+]
+},
+{
+"label":"Heartstopper: Volume 4",
+"isbns": [
+"9781338617559"
+]
+},
+ {
+"label":"The Long Goodbye",
+"isbns": [
+"9781883011086"
+]
+}
+]
+}
